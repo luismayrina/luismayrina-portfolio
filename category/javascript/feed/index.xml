@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Luis Mayrina</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>JavaScript &#8211; Luis Mayrina</title>
+	<atom:link href="/category/javascript/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 29 Nov 2024 11:43:02 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 27 Nov 2024 14:51:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -48,32 +48,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2024/11/27/canteen-ordering-system/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>PiratePath AR App &#038; Landing Page</title>
-		<link>https://piratepath.netlify.app/#new_tab</link>
-					<comments>https://piratepath.netlify.app/#new_tab#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Tue, 26 Nov 2024 10:53:08 +0000</pubDate>
-				<category><![CDATA[C#]]></category>
-		<category><![CDATA[CSS]]></category>
-		<category><![CDATA[Firebase]]></category>
-		<category><![CDATA[HTML]]></category>
-		<category><![CDATA[JSON]]></category>
-		<category><![CDATA[PHP]]></category>
-		<category><![CDATA[Unity3D]]></category>
-		<guid isPermaLink="false">/?p=240</guid>
-
-					<description><![CDATA[PiratePath is an android-based augmented reality (AR) application designed to provide seamless indoor navigation within a university campus. The app eliminates the need for GPS by relying on AR technology and visual markers to guide users to their destinations. PiratePath features a user-friendly interface and a virtual tour guide that dynamically assists users during navigation, ensuring an engaging and efficient experience.]]></description>
-										<content:encoded><![CDATA[
-<p>PiratePath is an android-based augmented reality (AR) application designed to provide seamless indoor navigation within a university campus. The app eliminates the need for GPS by relying on AR technology and visual markers to guide users to their destinations. PiratePath features a user-friendly interface and a virtual tour guide that dynamically assists users during navigation, ensuring an engaging and efficient experience.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://piratepath.netlify.app/#new_tab/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

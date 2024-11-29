@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Luis Mayrina</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>HTML &#8211; Luis Mayrina</title>
+	<atom:link href="/category/html/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Nov 2024 11:43:02 +0000</lastBuildDate>

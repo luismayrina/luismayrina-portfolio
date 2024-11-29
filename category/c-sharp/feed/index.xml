@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Luis Mayrina</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>C# &#8211; Luis Mayrina</title>
+	<atom:link href="/category/c-sharp/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Fri, 29 Nov 2024 11:43:02 +0000</lastBuildDate>
@@ -20,39 +20,6 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Canteen Ordering System</title>
-		<link>/2024/11/27/canteen-ordering-system/</link>
-					<comments>/2024/11/27/canteen-ordering-system/#respond</comments>
-		
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Wed, 27 Nov 2024 14:19:20 +0000</pubDate>
-				<category><![CDATA[Bootstrap]]></category>
-		<category><![CDATA[CSS]]></category>
-		<category><![CDATA[HTML]]></category>
-		<category><![CDATA[JavaScript]]></category>
-		<category><![CDATA[MySQL]]></category>
-		<category><![CDATA[PHP]]></category>
-		<guid isPermaLink="false">/?p=260</guid>
-
-					<description><![CDATA[Developed a full-stack web application to allow students to place online orders from canteen stalls, improving convenience and reducing wait times. Features include: • Admin CMS • Login / Registration • Add to cart • Checkout • Payment • Delete • Update • Quantity • Order Status (To Pay / Preparing / Ready to Pick Up / Completed)]]></description>
-										<content:encoded><![CDATA[
-<p>Developed a full-stack web application to allow students to place online orders from canteen stalls, improving convenience and reducing wait times. </p>
-
-
-
-<p>Features include: <br><strong>•</strong> <em>Admin CMS</em> <strong>•</strong> <em>Login / Registration</em> <strong>•</strong> <em>Add to cart</em> <strong>•</strong> <em>Checkout</em> <strong>•</strong> <em>Payment</em> <strong>•</strong> <em>Delete</em> <strong>•</strong> <em>Update</em> <strong>•</strong> <em>Quantity</em> <strong>•</strong> <em>Order Status</em> (To Pay / Preparing / Ready to Pick Up / Completed)</p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/11/27/canteen-ordering-system/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>PiratePath AR App &#038; Landing Page</title>
 		<link>https://piratepath.netlify.app/#new_tab</link>
 					<comments>https://piratepath.netlify.app/#new_tab#respond</comments>
