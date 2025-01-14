@@ -12,7 +12,7 @@
 	<atom:link href="/category/javascript/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Wed, 27 Nov 2024 14:51:33 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 14 Jan 2025 17:44:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
 		<title>Canteen Ordering System</title>
-		<link>/2024/11/27/canteen-ordering-system/</link>
-					<comments>/2024/11/27/canteen-ordering-system/#respond</comments>
+		<link>https://github.com/luismayrina/ordering-website#new_tab</link>
+					<comments>https://github.com/luismayrina/ordering-website#new_tab#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 27 Nov 2024 14:19:20 +0000</pubDate>
@@ -47,7 +47,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/11/27/canteen-ordering-system/feed/</wfw:commentRss>
+					<wfw:commentRss>https://github.com/luismayrina/ordering-website#new_tab/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

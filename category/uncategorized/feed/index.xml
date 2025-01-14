@@ -12,7 +12,7 @@
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
-	<lastBuildDate>Thu, 14 Nov 2024 12:24:29 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 11 Dec 2024 11:00:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,22 +20,69 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.7.1</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>/2024/11/14/hello-world/</link>
-					<comments>/2024/11/14/hello-world/#comments</comments>
+		<title>Cinema Booking UI Design</title>
+		<link>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab</link>
+					<comments>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<pubDate>Thu, 14 Nov 2024 12:24:29 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<pubDate>Mon, 09 Dec 2024 12:22:32 +0000</pubDate>
+				<category><![CDATA[Figma]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=441</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[This design includes the following key features:]]></description>
 										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>This design includes the following key features:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Now Showing and Coming Soon Sections</strong></li>
+
+
+
+<li><strong>Interactive Sidebar Navigation</strong></li>
+
+
+
+<li><strong>Location-Specific Content</strong></li>
+
+
+
+<li><strong>Detailed Movie Previews</strong></li>
+
+
+
+<li><strong>Seat Selection</strong></li>
+
+
+
+<li><strong>Time &amp; Date Selection</strong></li>
+
+
+
+<li><strong>Payment System</strong></li>
+
+
+
+<li><strong>E-Ticket Generation</strong></li>
+
+
+
+<li><strong>Admin Panel</strong></li>
+
+
+
+<li><strong>Modern Aesthetic</strong></li>
+</ul>
+
+
+
+<p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/11/14/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
+					<wfw:commentRss>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

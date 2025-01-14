@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Figma &#8211; Luis Mayrina</title>
+	<atom:link href="/category/figma/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description></description>
+	<lastBuildDate>Wed, 11 Dec 2024 11:00:15 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Cinema Booking UI Design</title>
+		<link>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab</link>
+					<comments>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 09 Dec 2024 12:22:32 +0000</pubDate>
+				<category><![CDATA[Figma]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=441</guid>
+
+					<description><![CDATA[This design includes the following key features:]]></description>
+										<content:encoded><![CDATA[
+<p>This design includes the following key features:</p>
+
+
+
+<ul class="wp-block-list">
+<li><strong>Now Showing and Coming Soon Sections</strong></li>
+
+
+
+<li><strong>Interactive Sidebar Navigation</strong></li>
+
+
+
+<li><strong>Location-Specific Content</strong></li>
+
+
+
+<li><strong>Detailed Movie Previews</strong></li>
+
+
+
+<li><strong>Seat Selection</strong></li>
+
+
+
+<li><strong>Time &amp; Date Selection</strong></li>
+
+
+
+<li><strong>Payment System</strong></li>
+
+
+
+<li><strong>E-Ticket Generation</strong></li>
+
+
+
+<li><strong>Admin Panel</strong></li>
+
+
+
+<li><strong>Modern Aesthetic</strong></li>
+</ul>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.figma.com/proto/13PJlZGAk4AVdiJb3kN7X2/Booking-System?page-id=0%3A1&#038;node-id=2-2&#038;starting-point-node-id=2%3A2&#038;t=yNwIAnDgbmP1eftT-1&#038;scaling=contain&#038;content-scaling=fixed#new_tab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
